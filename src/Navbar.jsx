@@ -22,7 +22,7 @@ const Navbar = () => {
       <nav>
         <div className="nav-center">
           <div className="nav-header">
-            <img src="logo.png" className="logo" alt="" />
+            <img src="src/assets/logo.png" className="logo" alt="" />
             <button
               className="nav-toggle"
               onClick={() => setShowLinks(!showLinks)}
